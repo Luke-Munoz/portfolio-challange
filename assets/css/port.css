@@ -48,7 +48,7 @@ p {
 }
 
 .hero {
-    height: 550px;
+    height: 300px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
@@ -66,10 +66,6 @@ p {
     margin-left: 25px;
 }
 
-aside {
-    float: left;
-}
-
 .content {
     width: 75%;
     display: flex;
@@ -84,6 +80,8 @@ aside {
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: burlywood;
+    border-style: solid;
+    border-color: bisque;
 }
 
 .content h2 {
@@ -94,6 +92,7 @@ aside {
 .about-me img,
 .my-work img {
     max-height: 20px;
+    border-radius: slategrey;
 }
 
 footer {
@@ -120,4 +119,8 @@ footer ul li {
     display: inline-flex;
     flex-direction: row;
     margin-left: 25px;
+}
+
+footer a {
+    margin: 0 25px 0 25px;
 }
