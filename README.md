@@ -1,18 +1,18 @@
 # portfolio-challange
- Luke Portfolio
+ ## Luke Portfolio
 
-Purpose
-To showcase my work and to help me land a job
+# Purpose
+## To showcase my work and to help me land a job
 
-Built with
-html
-css
-Website
+# Built with
+## html
+## css
+## Website
 
-screenshots
+# screenshots
 ![screenshots](./assets/images/screenshot.jpeg)
 
 
 
-Contribution
+# Contribution
 Made by Luke Munoz
